@@ -1,7 +1,3 @@
-Nombre: Vicente Mackenzie
-
-ROL: 201823524-5
-
 Esta tarea fue programada en la version 17.0.4 de java para ubuntu (wsl)
 
 Datos extra de la version de Java:
