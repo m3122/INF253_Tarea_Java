@@ -11,3 +11,5 @@ Datos extra de la version de javac:
 Para ejecutar el programa hay que introducir el comando "make" en la consola bash ubicada en el directorio con todos los archivos.
 
 El metodo de nextInt() de la libreria Java.util.Random necesita la version de CLDC 1.1 o mayor. Si el programa no compila por el error "method random.nextint() is not applicable" es por eso.
+
+Obtuve nota 100/100 en esta tarea.
